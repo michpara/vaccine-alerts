@@ -1,6 +1,6 @@
 # Vaccine Alerts
 
-**Current # of users:** 24
+**Current # of users:** 25
 
 Receive alerts daily on the percentage of Canadians who have received at least one dose of the COVID-19 Vaccine.
 

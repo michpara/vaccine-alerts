@@ -2,8 +2,6 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-today = (datetime.now() - timedelta(1)).strftime("%d-%m-%Y") #returns yesterdays date
-
 #returns the total # of administered vaccines in canada
 vaccine_api = "https://api.covid19tracker.ca/summary"
 response = requests.get(vaccine_api)
