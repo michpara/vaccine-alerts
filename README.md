@@ -2,6 +2,8 @@
 
 **Current # of users:** 45
 
+**Vaccinations as of May 22, 2021: 50.1%**
+
 Receive alerts daily on the percentage of Canadians who have received at least one dose of the COVID-19 Vaccine.
 
 The script that is run periodically is included in this git repository, although I used **WayScript** to run the script every day and **Twilio** to send
