@@ -1,8 +1,6 @@
 # Vaccine Alerts
 
-**Current # of users:** 45
-
-**Vaccinations as of May 22, 2021: 50.1%**
+**Current # of users:** 48
 
 Receive alerts daily on the percentage of Canadians who have received at least one dose of the COVID-19 Vaccine.
 
